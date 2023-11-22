@@ -1,0 +1,5 @@
+# task
+
+CONFIG AWS & AFTER SEND MONGODB DATA      
+
+
